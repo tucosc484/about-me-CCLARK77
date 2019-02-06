@@ -12,4 +12,4 @@ My ideal career is software development involving machine learning with autonomo
 ## What programming experience do you have? 
 ## Do you have any web experience?
 
-	I have programming experience primarily with Java, Python, SQL, GO, Power-shell. I have some minor experience with javascript. I have experience with applications written in python that interface with a SQL Database and create json outputs, as well as java apps that have this functionality as well. 
+I have programming experience primarily with Java, Python, SQL, GO, Power-shell. I have some minor experience with javascript. I have experience with applications written in python that interface with a SQL Database and create json outputs, as well as java apps that have this functionality as well. 
